@@ -15,7 +15,7 @@ class GitTextApplicationTests {
         System.out.println(b);
     }
 
-    public static void main(String[] args) {
+    public static void mains(String[] args) {
         int w =55;
         int c =5;
         System.out.println();
