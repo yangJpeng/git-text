@@ -11,6 +11,8 @@ class GitTextApplicationTests {
 
         int q =10;
         int b =5;
+        System.out.println(q);
+        System.out.println(b);
     }
 
 
