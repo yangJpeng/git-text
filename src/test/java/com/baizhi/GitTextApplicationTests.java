@@ -16,6 +16,8 @@ class GitTextApplicationTests {
     }
 
     public static void main(String[] args) {
+        int w =55;
+        int c =5;
         System.out.println();
     }
 
